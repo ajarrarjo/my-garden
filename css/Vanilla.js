@@ -10,4 +10,4 @@
 const trbody= document.createElement('tr');
 
 const tdtag1 = document.createElement("th");
-
+tdtag1.setAttribute('id', 'delete');
